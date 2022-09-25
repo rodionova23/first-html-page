@@ -20,3 +20,7 @@ table{
 figcaption{
     font-style: italic;
 }
+
+figure{
+    float: right;
+}
