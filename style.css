@@ -8,3 +8,11 @@ h1 , h2 {
     margin-top: 1.5em;
     margin-bottom: 1em;
 }
+
+h1{
+    font-size: 32px;
+}
+
+table{
+    border: 1px solid black;
+}
